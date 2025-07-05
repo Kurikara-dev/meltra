@@ -132,4 +132,6 @@ debug.log
 # Project specific files (not for version control)
 .requirements/
 .pm_plan/
+.pm_do/
 CLAUDE.md
+PROJECT_PROGRESS.md
