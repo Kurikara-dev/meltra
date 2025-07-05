@@ -135,3 +135,5 @@ debug.log
 .pm_do/
 CLAUDE.md
 PROJECT_PROGRESS.md
+.claude/
+.gitignore
